@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer! 👋🏾 👩🏾‍💻
 
-Welcome to my GitHub profile! I am a software engineer bootcamp graduate with 6 months of experience in HTML, CSS, Javascript, ReactJS, Ruby, and Ruby on Rails. I am always eager to learn more about the tech world and expand my skills, and I'm currently working towards mastering Django, Java, and C++. I've faced challenges along the way, but I never give up easily and always learn from my mistakes. I'm passionate about coding and look forward to sharing my projects with you. Let's connect and grow together!
+Welcome to my GitHub profile! I am a software engineer graduate with experience in HTML, CSS, Javascript, ReactJS, Ruby, and Ruby on Rails. I am always eager to learn more about the tech world and expand my skills, and I'm currently working towards mastering Django and Java. I've faced challenges along the way, but I never give up easily and always learn from my mistakes. I'm passionate about coding and look forward to sharing my projects with you. Let's connect and grow together!
 
 
 ** Fun Facts**
