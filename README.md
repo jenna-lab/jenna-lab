@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer! 👋🏾 👩🏾‍💻
 
-Welcome to my GitHub profile! I am a software engineer graduate with experience in HTML, CSS, Javascript, ReactJS, Ruby, and Ruby on Rails. I am always eager to learn more about the tech world and expand my skills, and I'm currently working towards mastering Django and Java. I've faced challenges along the way, but I never give up easily and always learn from my mistakes. I'm passionate about coding and look forward to sharing my projects with you. Let's connect and grow together!
+Welcome to my GitHub profile! Let's connect and grow together!
 
 
 ** Fun Facts**
@@ -18,11 +18,10 @@ Welcome to my GitHub profile! I am a software engineer graduate with experience 
 ![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## ✏️ Currently Learning
-**Java** -  I am eager to learn Java because it has a wide range of applications for developing desktop, mobile, and web applications. 
+**Typescript**  
 
-**React** - It doesn't matter how long I've used React,I will always be learning React.
+**React** 
 
-**Django** -I am interested in mastering its features such as authentication, security, and database integration to build dynamic websites.
 
 ## 🥳 Collaborations?
 I am always looking for opportunities to collaborate on projects with other developers. I believe that working in a team can lead to better results, and I am eager to learn from others and share my own knowledge and experience. If you have an exciting project in mind and are looking for a passionate and hardworking team member, please don't hesitate to reach out to me. I would love to discuss how we can work together to create something amazing.
